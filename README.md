@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Sakshi Darji! 👋
 
-<!--
-**Sakshi-Codes31/Sakshi-Codes31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student | 📊 Data Analytics Enthusiast
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- SQL | Excel | Tableau
+- Data Analysis | Data Visualization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📁 Projects
+
+### 1. Superstore Sales Analysis
+- Analyzed 9,800+ sales orders using SQL and Tableau
+- Built interactive 4-chart dashboard
+- 🔗 [GitHub](https://github.com/Sakshi-Codes31/Superstore-sales-analysis)
+- 📊 [Tableau Dashboard](https://public.tableau.com/app/profile/sakshi.darji/viz/Superstore-Sales-Analysis_17801476765060/Dashboard1)
+
+## 📫 Contact Me
+- GitHub: Sakshi-Codes31
